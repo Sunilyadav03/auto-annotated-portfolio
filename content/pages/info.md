@@ -153,7 +153,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/channels/@me'
         styles:
           self:
             textAlign: left
