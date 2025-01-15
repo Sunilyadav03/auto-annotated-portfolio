@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Netlify
+        label: NLP
       - type: Label
         label: Pancakes
       - type: Label
