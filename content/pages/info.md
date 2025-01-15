@@ -212,6 +212,8 @@ sections:
       - type: Label
         label: LangGraph
       - type: Label
+        label: Langchain
+      - type: Label
         label: LLMs
       - type: Label
         label: GPT
@@ -221,8 +223,6 @@ sections:
         label: NLP
       - type: Label
         label: MySQL
-      - type: Label
-        label: Langchain
       - type: Label
         label: Python
   - type: DividerSection
