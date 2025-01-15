@@ -213,6 +213,9 @@ sections:
       - type: Label
         label: AWS
       - type: Label
+        label: AI Agents
+        url: ''
+      - type: Label
         label: NLP
       - type: Label
         label: MySQL
@@ -222,9 +225,6 @@ sections:
         label: Python
       - type: Label
         label: LangGraph
-      - type: Label
-        label: AI Agents
-        url: ''
   - type: DividerSection
     styles:
       self:
