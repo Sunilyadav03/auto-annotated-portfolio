@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: MySQL
       - type: Label
-        label: C++
+        label: Langchain
       - type: Label
         label: Swift
   - type: DividerSection
