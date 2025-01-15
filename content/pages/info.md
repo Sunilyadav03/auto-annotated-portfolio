@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Langchain
       - type: Label
-        label: Swift
+        label: Lang
   - type: DividerSection
     styles:
       self:
