@@ -222,6 +222,9 @@ sections:
         label: Langchain
       - type: Label
         label: LangGraph
+      - type: Label
+        label: AI Agents
+        url: ''
   - type: DividerSection
     styles:
       self:
