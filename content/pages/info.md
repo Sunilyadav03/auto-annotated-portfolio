@@ -207,14 +207,14 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: AI Agents
+        url: ''
+      - type: Label
         label: LLMs
       - type: Label
         label: GPT
       - type: Label
         label: AWS
-      - type: Label
-        label: AI Agents
-        url: ''
       - type: Label
         label: NLP
       - type: Label
