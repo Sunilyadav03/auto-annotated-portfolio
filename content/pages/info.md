@@ -214,6 +214,8 @@ sections:
       - type: Label
         label: GPT
       - type: Label
+        label: LangGraph
+      - type: Label
         label: AWS
       - type: Label
         label: NLP
@@ -223,8 +225,6 @@ sections:
         label: Langchain
       - type: Label
         label: Python
-      - type: Label
-        label: LangGraph
   - type: DividerSection
     styles:
       self:
