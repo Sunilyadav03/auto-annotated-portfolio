@@ -209,7 +209,7 @@ sections:
       - type: Label
         label: LLMs
       - type: Label
-        label: React
+        label: GPT
       - type: Label
         label: Microsoft Office
       - type: Label
