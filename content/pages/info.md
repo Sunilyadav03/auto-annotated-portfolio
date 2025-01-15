@@ -222,9 +222,9 @@ sections:
       - type: Label
         label: NLP
       - type: Label
-        label: MySQL
-      - type: Label
         label: Python
+      - type: Label
+        label: MySQL
   - type: DividerSection
     styles:
       self:
