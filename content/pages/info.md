@@ -213,13 +213,13 @@ sections:
       - type: Label
         label: AWS
       - type: Label
-        label: Python
-      - type: Label
         label: NLP
       - type: Label
         label: MySQL
       - type: Label
         label: Langchain
+      - type: Label
+        label: Python
       - type: Label
         label: LangGraph
       - type: Label
