@@ -210,11 +210,11 @@ sections:
         label: AI Agents
         url: ''
       - type: Label
+        label: LangGraph
+      - type: Label
         label: LLMs
       - type: Label
         label: GPT
-      - type: Label
-        label: LangGraph
       - type: Label
         label: AWS
       - type: Label
