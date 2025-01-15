@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: GPT
       - type: Label
-        label: Microsoft Office
+        label: AWS
       - type: Label
         label: Next.js
       - type: Label
