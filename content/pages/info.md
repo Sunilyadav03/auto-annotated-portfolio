@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: AWS
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
         label: Netlify
       - type: Label
