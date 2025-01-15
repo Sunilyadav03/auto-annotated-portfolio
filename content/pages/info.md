@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Langchain
       - type: Label
-        label: Lang
+        label: LangGraph
   - type: DividerSection
     styles:
       self:
