@@ -18,7 +18,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/post-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
