@@ -227,7 +227,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [sky787770@gmail.com](mailto:thisismyemail.@myemail.me)
+      [sky787770@gmail.com](sky787770@gmail.com)
   - type: DividerSection
     styles:
       self:
