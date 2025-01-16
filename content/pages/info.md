@@ -144,6 +144,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://www.linkedin.com/in/sunil-yadav-96a541289/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
