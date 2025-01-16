@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Deep Fake Image Detection
 colors: colors-a
-date: '2024-04-01'
+date: '2024-04-13'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
