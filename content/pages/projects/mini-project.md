@@ -22,7 +22,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Screenshot 2025-01-16 at 10.13.08.png
+  url: /images/Screenshot 2025-01-16 at 10.14.44.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
