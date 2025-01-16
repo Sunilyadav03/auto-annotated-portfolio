@@ -129,14 +129,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/in/sunil-yadav-96a541289/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         actions: []
         styles:
           self:
