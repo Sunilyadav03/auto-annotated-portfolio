@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Military Aircraft Classification
 date: '2024-11-11'
-client: Awesome client
+client: 'Department of Computer Science, DIAT Pune.'
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
