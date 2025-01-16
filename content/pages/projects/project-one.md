@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: LLM+OCR
-colors: colors-b
+colors: colors-a
 date: '2024-12-21'
 client: Mixins XYZ
 description: >-
