@@ -20,7 +20,7 @@ sections:
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Myphoto.jpeg
       altText: Hero image
     styles:
       self:
@@ -124,31 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://github.com/Sunilyadav03'
         styles:
           self:
             textAlign: left
@@ -156,18 +132,27 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/channels/@me'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: LinkedIn
+            altText: ''
+            url: 'https://www.linkedin.com/in/sunil-yadav-96a541289/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -207,21 +192,24 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: AI Agents
+        url: ''
       - type: Label
-        label: React
+        label: LangGraph
       - type: Label
-        label: Microsoft Office
+        label: Langchain
       - type: Label
-        label: Next.js
+        label: LLMs
       - type: Label
-        label: Netlify
+        label: GPT
       - type: Label
-        label: Pancakes
+        label: AWS
       - type: Label
-        label: C++
+        label: NLP
       - type: Label
-        label: Swift
+        label: Python
+      - type: Label
+        label: MySQL
   - type: DividerSection
     styles:
       self:
@@ -239,7 +227,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [sky787770@gmail.com](sky787770@gmail.com)
   - type: DividerSection
     styles:
       self:
