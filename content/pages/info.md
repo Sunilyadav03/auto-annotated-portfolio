@@ -146,7 +146,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: LinkedIn
             altText: ''
             url: 'https://www.linkedin.com/in/sunil-yadav-96a541289/'
             showIcon: false
