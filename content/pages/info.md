@@ -137,7 +137,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Link
+        title: LinkedIn
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
