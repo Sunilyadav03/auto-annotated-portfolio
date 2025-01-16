@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Continual Learning
-colors: colors-a
+colors: colors-c
 date: '2024-08-22'
 client: Thesis Project
 description: >-
