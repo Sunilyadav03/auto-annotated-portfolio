@@ -19,7 +19,7 @@ media:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
-colors: colors-d
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/Screenshot 2025-01-16 at 10.14.44.png
