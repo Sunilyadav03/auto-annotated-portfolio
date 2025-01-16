@@ -18,7 +18,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-1.jpg
+  url: /images/Screenshot 2025-01-16 at 09.22.42.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
