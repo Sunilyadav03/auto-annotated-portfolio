@@ -137,7 +137,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: LinkedIn
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
