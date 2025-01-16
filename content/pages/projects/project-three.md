@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Continual Learning
 colors: colors-a
-date: '2025-02-22'
+date: '2025-01-22'
 client: Thesis Project
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
