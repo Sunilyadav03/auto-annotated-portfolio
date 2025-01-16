@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Screenshot 2025-01-16 at 08.35.39.png
+  url: /images/Screenshot 2025-01-16 at 08.52.04.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
