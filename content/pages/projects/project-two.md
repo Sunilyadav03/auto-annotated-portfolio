@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Deep Fake Image Detection
+title: Deep Fake Detection
 colors: colors-a
 date: '2024-04-13'
 client: ''
